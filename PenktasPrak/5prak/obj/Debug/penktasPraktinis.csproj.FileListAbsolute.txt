@@ -1,0 +1,10 @@
+C:\Users\Bri\OneDrive - Vilniaus kolegija\4 semestras (2021-2022)\Code\Informacijos saugumas\penktasPraktinis\penktasPraktinis\bin\Debug\penktasPraktinis.exe.config
+C:\Users\Bri\OneDrive - Vilniaus kolegija\4 semestras (2021-2022)\Code\Informacijos saugumas\penktasPraktinis\penktasPraktinis\bin\Debug\penktasPraktinis.exe
+C:\Users\Bri\OneDrive - Vilniaus kolegija\4 semestras (2021-2022)\Code\Informacijos saugumas\penktasPraktinis\penktasPraktinis\bin\Debug\penktasPraktinis.pdb
+C:\Users\Bri\OneDrive - Vilniaus kolegija\4 semestras (2021-2022)\Code\Informacijos saugumas\penktasPraktinis\penktasPraktinis\obj\Debug\penktasPraktinis.csproj.AssemblyReference.cache
+C:\Users\Bri\OneDrive - Vilniaus kolegija\4 semestras (2021-2022)\Code\Informacijos saugumas\penktasPraktinis\penktasPraktinis\obj\Debug\penktasPraktinis.Form1.resources
+C:\Users\Bri\OneDrive - Vilniaus kolegija\4 semestras (2021-2022)\Code\Informacijos saugumas\penktasPraktinis\penktasPraktinis\obj\Debug\penktasPraktinis.Properties.Resources.resources
+C:\Users\Bri\OneDrive - Vilniaus kolegija\4 semestras (2021-2022)\Code\Informacijos saugumas\penktasPraktinis\penktasPraktinis\obj\Debug\penktasPraktinis.csproj.GenerateResource.cache
+C:\Users\Bri\OneDrive - Vilniaus kolegija\4 semestras (2021-2022)\Code\Informacijos saugumas\penktasPraktinis\penktasPraktinis\obj\Debug\penktasPraktinis.csproj.CoreCompileInputs.cache
+C:\Users\Bri\OneDrive - Vilniaus kolegija\4 semestras (2021-2022)\Code\Informacijos saugumas\penktasPraktinis\penktasPraktinis\obj\Debug\penktasPraktinis.exe
+C:\Users\Bri\OneDrive - Vilniaus kolegija\4 semestras (2021-2022)\Code\Informacijos saugumas\penktasPraktinis\penktasPraktinis\obj\Debug\penktasPraktinis.pdb

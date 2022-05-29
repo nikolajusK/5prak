@@ -1,0 +1,11 @@
+C:\Users\Vartotojas\Desktop\penktasPraktinis\penktasPraktinis\bin\Debug\penktasPrakt.exe.config
+C:\Users\Vartotojas\Desktop\penktasPraktinis\penktasPraktinis\bin\Debug\penktasPrakt.exe
+C:\Users\Vartotojas\Desktop\penktasPraktinis\penktasPraktinis\bin\Debug\penktasPrakt.pdb
+C:\Users\Vartotojas\Desktop\penktasPraktinis\penktasPraktinis\obj\Debug\5D.csproj.AssemblyReference.cache
+C:\Users\Vartotojas\Desktop\penktasPraktinis\penktasPraktinis\obj\Debug\5D.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vartotojas\Desktop\penktasPraktinis\penktasPraktinis\obj\Debug\penktasPraktinis.Form1.resources
+C:\Users\Vartotojas\Desktop\penktasPraktinis\penktasPraktinis\obj\Debug\fifthPrak.Properties.Resources.resources
+C:\Users\Vartotojas\Desktop\penktasPraktinis\penktasPraktinis\obj\Debug\5D.csproj.GenerateResource.cache
+C:\Users\Vartotojas\Desktop\penktasPraktinis\penktasPraktinis\obj\Debug\5D.csproj.CoreCompileInputs.cache
+C:\Users\Vartotojas\Desktop\penktasPraktinis\penktasPraktinis\obj\Debug\penktasPrakt.exe
+C:\Users\Vartotojas\Desktop\penktasPraktinis\penktasPraktinis\obj\Debug\penktasPrakt.pdb
